@@ -88,10 +88,10 @@ clan:
 ## Шаг 1: Скачать плагин
 ```bash
 # Способ 1: Через релизы GitHub
-https://github.com/WinstonLog/SimpleClans/releases
+https://github.com/WinstonLog/Minecraft-Plugin-SimpleClans/releases/
 
 # Способ 2: Собрать из исходников
-git clone https://github.com/WinstonLog/SimpleClans.git
+git clone https://github.com/WinstonLog/Minecraft-Plugin-SimpleClans.git
 mvn clean package
 ```
 
