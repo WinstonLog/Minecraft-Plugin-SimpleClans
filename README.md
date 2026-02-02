@@ -88,10 +88,10 @@ clan:
 ## Шаг 1: Скачать плагин
 ```bash
 # Способ 1: Через релизы GitHub
-https://github.com/Day2S/SimpleClans/releases
+https://github.com/WinstonLog/SimpleClans/releases
 
 # Способ 2: Собрать из исходников
-git clone https://github.com/Day2S/SimpleClans.git
+git clone https://github.com/WinstonLog/SimpleClans.git
 mvn clean package
 ```
 
