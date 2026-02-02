@@ -1,0 +1,17 @@
+name: SimpleClans
+version: 1.0.0
+main: me.day2s.simpleclans.SimpleClansPlugin
+api-version: 1.16
+author: Day2S
+description: Простая система кланов
+
+commands:
+  clan:
+    description: Управление кланом
+    aliases: [c, clan, клан]
+    usage: /clan <create|join|leave|info|list|disband>
+
+permissions:
+  simpleclans.admin:
+    description: Админ права
+    default: op

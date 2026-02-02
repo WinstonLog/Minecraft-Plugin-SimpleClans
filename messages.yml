@@ -1,0 +1,14 @@
+# Сообщения кланов
+clan:
+  already-have: "&cУ вас уже есть клан!"
+  exists: "&cКлан с таким названием уже существует!"
+  created: "&aКлан &6{name} &aуспешно создан!"
+  not-in-clan: "&cВы не состоите в клане!"
+  not-found: "&cКлан &6{name} &cне найден!"
+  joined: "&aВы вступили в клан &6{name}&a!"
+  left: "&aВы покинули клан &6{name}&a!"
+  disbanded: "&aКлан &6{name} &aраспущен!"
+  not-leader: "&cТолько лидер клана может это сделать!"
+  leader-cant-leave: "&cЛидер не может покинуть клан! Используйте /clan disband"
+  member-joined: "&aИгрок &e{player} &aприсоединился к клану!"
+  member-left: "&cИгрок &e{player} &cпокинул клан!"
