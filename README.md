@@ -38,6 +38,7 @@ clan:
   max-members: 20
   allowed-name-regex: "^[a-zA-Zа-яА-Я0-9_ ]+$"
   create-cost: 0
+```
 
 📝 Команды
 
